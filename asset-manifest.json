@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.03a47668.css",
-    "main.js": "/portfolio-react/static/js/main.58074f67.js",
-    "static/media/mountains.png": "/portfolio-react/static/media/mountains.6bceb498a0e1e0a70b47.png",
-    "static/media/stars.png": "/portfolio-react/static/media/stars.a979f6ed7ad00c7ea0b2.png",
-    "static/media/planets.png": "/portfolio-react/static/media/planets.827213af57ae82d007cd.png",
+    "main.css": "/portfolio-react/static/css/main.226459fc.css",
+    "main.js": "/portfolio-react/static/js/main.0f93934c.js",
     "index.html": "/portfolio-react/index.html",
-    "main.03a47668.css.map": "/portfolio-react/static/css/main.03a47668.css.map",
-    "main.58074f67.js.map": "/portfolio-react/static/js/main.58074f67.js.map"
+    "main.226459fc.css.map": "/portfolio-react/static/css/main.226459fc.css.map",
+    "main.0f93934c.js.map": "/portfolio-react/static/js/main.0f93934c.js.map"
   },
   "entrypoints": [
-    "static/css/main.03a47668.css",
-    "static/js/main.58074f67.js"
+    "static/css/main.226459fc.css",
+    "static/js/main.0f93934c.js"
   ]
 }
